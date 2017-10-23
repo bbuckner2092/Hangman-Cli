@@ -1,0 +1,20 @@
+{
+  "name": "Hangman-Cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbuckner2092/Hangman-Cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbuckner2092/Hangman-Cli/issues"
+  },
+  "homepage": "https://github.com/bbuckner2092/Hangman-Cli#readme"
+}
